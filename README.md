@@ -1,13 +1,8 @@
 # Cryptography---19CS412-classical-techqniques
-
 # Experiment - 1 Caeser Cipher
 Caeser Cipher using with different key values
-
 # AIM:
-
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
-
-
 ## ALGORITHM:
 
 ### Step 1:
@@ -30,11 +25,8 @@ Implementation using C or pyhton code
                        En(x) = (x + n) mod26
 5.	Decryption is performed similarly,
                        Dn (x)=(x - n) mod26
-
-
-
 ## PROGRAM:
-```c
+```C
 #include <stdio.h>
 #include <string.h>
 
@@ -104,11 +96,10 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/969176c6-688c-49de-9043-c82e18c12d55)
 
-
 ## RESULT:
 The program for Caeser Cipher is executed successfully
 
----------------------------------
+----------------------------------------------
 
 # Experiment - 2 PlayFair Cipher
 Playfair Cipher using with different key values
