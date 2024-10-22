@@ -1,5 +1,6 @@
 # Cryptography---19CS412-classical-techqniques
-# Caeser Cipher
+
+# Experiment - 1 Caeser Cipher
 Caeser Cipher using with different key values
 
 # AIM:
@@ -7,7 +8,7 @@ Caeser Cipher using with different key values
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 ### Step 1:
 
@@ -106,7 +107,7 @@ The program for Caeser Cipher is executed successfully
 
 ---------------------------------
 
-# PlayFair Cipher
+# Experiment - 2 PlayFair Cipher
 Playfair Cipher using with different key values
 
 # AIM:
@@ -114,7 +115,7 @@ Playfair Cipher using with different key values
 To implement a program to encrypt a plain text and decrypt a cipher text using play fair Cipher substitution technique.
 
  
-## DESIGN STEPS:
+## ALGORITHM:
 
 ### Step 1:
 
@@ -301,14 +302,14 @@ The program PlayFair Cipher is executed successfully
 
 ---------------------------
 
-# Hill Cipher
+# Experiment - 3 Hill Cipher
 Hill Cipher using with different key values
 
 # AIM:
 
 To develop a simple C program to implement Hill Cipher.
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 ### Step 1:
 
@@ -431,14 +432,14 @@ The program Hill Cipher is executed successfully
 
 -------------------------------------------------
 
-# Vigenere Cipher
+# Experiment - 4 Vigenere Cipher
 Vigenere Cipher using with different key values
 
 # AIM:
 
 To develop a simple C program to implement Vigenere Cipher.
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 ### Step 1:
 
@@ -542,14 +543,14 @@ The program Vigenere Cipher is executed successfully
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# Experiment - 5 Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 # AIM:
 
 To develop a simple C program to implement Rail Fence Cipher.
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 ### Step 1:
 
